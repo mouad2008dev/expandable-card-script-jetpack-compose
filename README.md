@@ -9,7 +9,7 @@ and this what it looks like
 
 ![Record_2024_11_18_18_44_20_811](https://github.com/user-attachments/assets/dbb7b4ee-f819-4318-b168-9a71be64074d)
 
-I hope that can help you & tell me if there is any bug
+I hope that can help you & tell me if there any bug
 
 Enjoy!!!
 
